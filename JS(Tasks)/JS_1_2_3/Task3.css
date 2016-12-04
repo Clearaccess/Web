@@ -1,0 +1,10 @@
+.noChoose{
+    border-style: solid;
+    border-color: white;
+}
+
+.choose{
+    border-style: solid;
+    border-width: medium;
+    border-color: blue;
+}
