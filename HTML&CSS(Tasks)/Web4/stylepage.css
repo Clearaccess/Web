@@ -1,0 +1,209 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}*/
+
+body{
+    background-color: #008081;
+}
+
+.container{
+    width: 96%;
+    margin-left: 2%;
+}
+
+.block1
+{
+    width: 100%;
+    float: left;
+    background-color: white;
+    margin-bottom: 1%;
+}
+
+.block1 .el1{
+    padding-left: 2%;
+    text-align: left;
+    width: 48%;
+    float: left;
+}
+
+.block1 .el2{
+    padding-right: 2%;
+    text-align: right;
+    width: 48%;
+    float: left;
+}
+
+.block2
+{
+    width: 64%;
+    float: left;
+    background-color: white;
+    margin-bottom: 1%;
+    margin-right: 1%;
+    text-align: center;
+}
+
+.block2 p
+{
+    margin-left: 2%;
+    text-align: left;
+}
+
+.block2 div
+{
+    margin: 1% 2% 1% 2%;
+    padding: 12% 23% 12% 23%;
+    float: left;
+    background-color: #8DCEC8;
+}
+
+.block2 .el5
+{
+    position: absolute;
+    visibility: hidden;
+}
+
+.block2 .el6
+{
+    position: absolute;
+    visibility: hidden;
+}
+
+.block3
+{
+    width: 35%;
+    float: left;
+    background-color: white;
+    margin-bottom: 1%;
+}
+
+.block3 p
+{
+    margin-left: 2%;
+    text-align: left;
+}
+
+.block3 div
+{
+    margin: 1.5% 2% 2% 2%;
+    padding: 22% 48% 22% 48%;
+    float: left;
+    background-color: #8DCEC8;
+}
+
+.block3 .el3
+{
+    position: absolute;
+    visibility: hidden;
+}
+
+
+.block4
+{
+    width: 100%;
+    float: left;
+    background-color: white;
+    text-align: center;
+}
+
+.block4 .el1
+{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+@media (min-width: 769px) and (max-width: 1023px)
+{
+    .block2
+    {
+        width: 100%;
+    }
+
+    .block2 div
+    {
+        padding: 12% 14.5% 12% 14.5%;
+    }
+
+    .block2 .el5
+    {
+        position: static;
+        visibility: visible;
+    }
+
+    .block2 .el6
+    {
+        position: static;
+        visibility: visible;
+    }
+
+
+    .block3
+    {
+        width: 100%;
+    }
+
+    .block3 div
+    {
+        margin: 1.5% 2% 2% 2%;
+        padding: 12% 14.5% 12% 14.5%;
+    }
+
+    .block3 .el3
+    {
+        position: static;
+        visibility: visible;
+    }
+}
+
+@media (max-width: 768px)
+{
+    .block1 .el1{
+        text-align: center;
+        width: 100%;
+    }
+
+    .block1 .el2{
+        text-align: center;
+        width: 100%;
+    }
+
+    .block2
+    {
+        width: 100%;
+    }
+
+    .block2 div
+    {
+        padding: 12% 48% 12% 48%;
+    }
+
+    .block2 .el3
+    {
+        position: absolute;
+        visibility: hidden;
+    }
+
+    .block2 .el4
+    {
+        position: absolute;
+        visibility: hidden;
+    }
+
+    .block3
+    {
+        width: 100%;
+    }
+
+    .block3 div
+    {
+        padding: 12% 48% 12% 48%;
+    }
+
+    .block3 .el3
+    {
+        position: absolute;
+        visibility: hidden;
+    }
+}

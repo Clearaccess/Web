@@ -1,0 +1,178 @@
+
+body{
+    background: #cadae7;
+}
+.head nav{
+    margin-left: 50%;
+}
+.head ul li{
+    display: inline;
+}
+.nav2 {
+    margin-left: 10%;
+    float: left;
+}
+.nav2 img{
+    width: 200px;
+    height: 70px;
+}
+.nav2 ul{
+    padding: 0;
+    width: 200px;
+}
+.nav2 ul li{
+    border-bottom: solid;
+    border-bottom-width: thin;
+    border-bottom-color: rgb(166,187,204);
+    padding-bottom: 3%;
+    padding-left: 5%;
+    padding-top: 2%;
+    list-style: none;
+    font-size: large;
+}
+
+.nav2 ul li:hover{
+    background: rgb(147,192,223);
+    color: aliceblue;
+    cursor: pointer;
+}
+
+.sec1{
+    margin-top: 4%;
+    margin-left: 26%;
+    padding-right: 12%;
+    font-size: medium;
+}
+
+.sec1 table{
+    margin: auto;
+    text-align: center;
+    border-style: solid;
+    border-collapse: collapse;
+    border-width: thin;
+}
+
+.sec1 table td{
+    border-style: solid;
+    border-width: thin;
+    border-color: rgb(28,89,134);
+}
+
+.sec1 tr:nth-child(1){
+    background: rgb(94,160,208);
+}
+
+.sec1 tr:nth-child(2){
+    background: rgb(94,160,208);
+}
+
+.sec1 td:nth-child(1){
+    width: 4%;
+}
+
+.sec1 ul li{
+    font-style: italic;
+}
+.sec1 ul li:nth-child(1){
+    color: red;
+}
+
+.sec1 ul li:nth-child(2){
+    color: forestgreen;
+}
+
+.sec1 ul li:nth-child(3){
+    color: red;
+}
+
+.sec1 ul li:nth-child(5){
+    color: gray;
+}
+
+#a1{
+    color: magenta;
+}
+
+#a1:hover{
+    cursor: pointer;
+}
+
+#a2{
+    color: magenta;
+}
+
+#a2:hover{
+    cursor: pointer;
+}
+
+.foot{
+    margin-left: 7%;
+    overflow: auto;
+}
+.foot ul{
+    margin-top: 5%;
+}
+.foot ul li{
+    float: left;
+    display: inline;
+    font-size: medium;
+    padding-right: 1%;
+    padding-left: 1%;
+    border-right: solid;
+    border-right-width: thin;
+}
+
+.foot ul li:hover{
+    cursor: pointer;
+}
+
+.foot ul li:last-child{
+    border-right: hidden;
+}
+.foot ul li:first-child{
+    color: magenta;
+    border-color: black;
+}
+.foot span{
+    float: right;
+    margin-right: 13%;
+}
+#el{
+    list-style: none;
+}
+
+#el ul li:nth-child(1){
+    color: blue;
+    text-decoration: underline;
+}
+
+#el ul li:nth-child(2){
+    color: darkmagenta;
+    font-style: normal;
+    text-decoration: underline;
+}
+
+#el ul li:nth-child(3){
+    color: rgb(241,226,85);
+    font-style: normal;
+}
+
+.nav1 ul li{
+    display: inline;
+    font-size: large;
+    font-weight: 500;
+    padding-right: 1%;
+    padding-left: 1%;
+}
+
+.nav1 ul li:hover{
+    cursor: pointer;
+}
+
+.nav1 ul li:first-child{
+    color: magenta;
+}
+
+.nav1 ul{
+    padding-top: 3%;
+}

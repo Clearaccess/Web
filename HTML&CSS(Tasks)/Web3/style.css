@@ -1,0 +1,653 @@
+body{
+    background-color: rgb(51,51,51);
+    margin-left: 3%;
+    margin-top: 2%;
+}
+
+.col1{
+    display: inline-block;
+    width: 6%;
+    height: 100%;
+    margin-right: 0.5%;
+}
+
+.col1 #col11{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-right: 11%;
+    padding-top: 20%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col1 #col12{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col1 #col13{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col1 #col14{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col1 #col15{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col1 #col16{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    border-radius: 18% 18% 0 0;
+    background-image: linear-gradient(rgb(255,206,86),rgb(255,197,75));
+}
+
+.col1 #col17{
+    background-color: rgb(255,186,61);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(255,192,68),rgb(255,184,58));
+}
+
+.col1 #col18{
+    background-color: rgb(255,174,44);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(255,178,50),rgb(255,170,39));
+}
+
+.col1 #col19{
+    background-color: rgb(255,159,25);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(255,168,32),rgb(255,156,17));
+}
+
+.col1 #col110{
+    background-color: rgb(255,146,8);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(250,150,17),rgb(255,142,1));
+}
+
+.col2{
+    display: inline-block;
+    width: 6%;
+    height: 100%;
+    margin-right: 0.5%;
+}
+
+.col2 #col21{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col2 #col22{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col2 #col23{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col2 #col24{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col2 #col25{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col2 #col26{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col2 #col27{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col2 #col28{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col2 #col29{
+    background-color: rgb(255,187,62);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    border-radius: 18% 18% 0 0;
+    background-image: linear-gradient(rgb(255,215,88),rgb(255,182,51));
+}
+
+.col2 #col210{
+    background-color: rgb(255,155,20);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(255,177,40),rgb(254,143,5));
+}
+
+.col3{
+    display: inline-block;
+    width: 6%;
+    height: 100%;
+    margin-right: 0.5%;
+}
+
+.col3 #col31{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col3 #col32{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col3 #col33{
+    background-color: rgb(255,204,83);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    border-radius: 18% 18% 0 0;
+    background-image: linear-gradient(rgb(255,219,91),rgb(255,214,83));
+}
+
+.col3 #col34{
+    background-color: rgb(255,196,74);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(255,207,78),rgb(255,204,69));
+}
+
+.col3 #col35{
+    background-color: rgb(255,186,61);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(255,198,67),rgb(255,195,58));
+}
+
+.col3 #col36{
+    background-color: rgb(255,176,48);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(255,189,54),rgb(255,184,46));
+}
+
+.col3 #col37{
+    background-color: rgb(255,168,37);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(255,189,54),rgb(255,174,34));
+}
+
+.col3 #col38{
+    background-color: rgb(255,161,27);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(255,170,32),rgb(255,162,21));
+}
+
+.col3 #col39{
+    background-color: rgb(255,151,15);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(255,159,19),rgb(255,151,12));
+}
+
+.col3 #col310{
+    background-color: rgb(255,141,2);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(255,149,7),rgb(254,141,2));
+}
+
+.col4{
+    display: inline-block;
+    width: 6%;
+    height: 100%;
+    margin-right: 0.5%;
+}
+
+.col4 #col41{
+    background-color: rgb(255,205,84);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    border-radius: 18% 18% 0 0;
+    background-image: linear-gradient(rgb(255,208,89),rgb(255,210,83));
+}
+
+.col4 #col42{
+    background-color: rgb(255,196,74);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(255,200,79),rgb(252,194,75));
+}
+
+.col4 #col43{
+    background-color: rgb(255,189,65);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(255,197,70),rgb(255,198,65));
+}
+
+.col4 #col44{
+    background-color: rgb(255,183,57);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(255,197,63),rgb(255,188,55));
+}
+
+.col4 #col45{
+    background-color: rgb(255,175,46);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(254,179,52),rgb(255,185,46));
+}
+
+.col4 #col46{
+    background-color: rgb(255,168,37);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(255,178,42),rgb(255,174,36));
+}
+
+.col4 #col47{
+    background-color: rgb(255,161,27);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(255,174,32),rgb(241,148,22));
+}
+
+.col4 #col48{
+    background-color: rgb(255,155,19);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(242,154,27),rgb(255,158,17));
+}
+
+.col4 #col49{
+    background-color: rgb(255,148,10);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(255,158,15),rgb(255,147,7));
+}
+
+.col4 #col410{
+    background-color: rgb(255,141,2);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(255,148,9),rgb(253,140,2));
+}
+
+.col5{
+    display: inline-block;
+    width: 6%;
+    height: 100%;
+    margin-right: 0.5%;
+}
+
+.col5 #col51{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col5 #col52{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col5 #col53{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col5 #col54{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col5 #col55{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col5 #col56{
+    background-color: rgb(255,200,79);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    border-radius: 18% 18% 0 0;
+    background-image: linear-gradient(rgb(255,207,87),rgb(255,201,76));
+}
+
+.col5 #col57{
+    background-color: rgb(255,184,58);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(255,202,70),rgb(255,183,57));
+}
+
+.col5 #col58{
+    background-color: rgb(255,171,41);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(255,186,52),rgb(255,170,39));
+}
+
+.col5 #col59{
+    background-color: rgb(255,156,21);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(255,168,32),rgb(255,156,19));
+}
+
+.col5 #col510{
+    background-color: rgb(255,142,3);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(255,153,15),rgb(255,141,2));
+}
+
+.col6{
+    display: inline-block;
+    width: 6%;
+    height: 100%;
+    margin-right: 30%;
+}
+
+.col6 #col61{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col6 #col62{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col6 #col63{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col6 #col64{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col6 #col65{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col6 #col66{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col6 #col67{
+    background-color: rgb(255,201,80);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    visibility: hidden;
+}
+
+.col6 #col68{
+    background-color: rgb(255,194,70);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    border-radius: 18% 18% 0 0;
+    background-image: linear-gradient(rgb(255,218,90),rgb(255,190,65));
+}
+
+.col6 #col69{
+    background-color: rgb(255,168,37);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(255,183,56),rgb(255,167,34));
+}
+
+.col6 #col610{
+    background-color: rgb(255,144,5);
+    padding-bottom: 20%;
+    padding-top: 20%;
+    padding-right: 11%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(rgb(255,166,26),rgb(255,145,4));
+}
